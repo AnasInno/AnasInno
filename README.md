@@ -14,7 +14,7 @@ I am a BSc Computer Science finalist in London, graduating in July 2026 and on t
 
 ## Links
 
-- Portfolio: https://anasinno.github.io/ai-deployment-portfolio/
+- Portfolio: https://anas.shortlistops.co.uk/
 - Hosted Gateway: https://ai-gateway.shortlistops.co.uk/docs
 - Gateway source: https://github.com/AnasInno/ai-deployment-portfolio/tree/main/gateway
 - LinkedIn: https://www.linkedin.com/in/anas-abdi-80b950271/
